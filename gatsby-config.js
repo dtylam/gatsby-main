@@ -3,7 +3,7 @@ module.exports = {
     title: `@dtylam`,
     author: {
       name: `@dtylam`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `has lived and worked in Hong Kong, London, and Manchester.`,
     },
     description: `My personal site. All projects and views meown and not employers'.`,
     siteUrl: `https://dtylam.github.io`,
