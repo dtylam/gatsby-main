@@ -9,6 +9,11 @@ module.exports = {
     siteUrl: `https://dtylam.github.io`,
     social: {
       twitter: `dtylam`,
+      instagram: `dtylam`,
+      spotify: `1276476528`,
+      paypal: `dtylam`,
+      monzo: `tszyiulam`,
+      buymeacoffee: `dtylam`,
     },
   },
   plugins: [
