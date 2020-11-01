@@ -8,6 +8,7 @@ import Layout from "../components/layout"
 import { Projects } from "../components/projects"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import SupportMe from "../components/supportMe"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -20,12 +21,18 @@ const BlogIndex = ({ data, location }) => {
         <SEO title="Home" />
         <div className="container">
           <div className="columns is-tablet is-multiline">
-            <div className="column">
+            <div className="column mr-5">
               <Bio />
+              <h2 class="subtitle">Latest Bloggeries</h2>
               {posts.map(({ node }) => {
                 const title = node.frontmatter.title || node.fields.slug
                 return (
-                  <article key={node.fields.slug}>
+                  <article
+                    key={node.fields.slug}
+                    style={{
+                      marginBottom: rhythm(1),
+                    }}
+                  >
                     <header>
                       <h3
                         style={{
@@ -51,6 +58,7 @@ const BlogIndex = ({ data, location }) => {
                   </article>
                 )
               })}
+            <SupportMe/>
             </div>
 
             <div className="column is-4">

@@ -15,7 +15,7 @@ const MonzoIcon = () => {
     }
   `)
 
-  return <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="Monzo logo" className="media-left image is-16x16"/>
+  return <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="Monzo logo" className="image is-16x16"/>
 }
 
 export default MonzoIcon
