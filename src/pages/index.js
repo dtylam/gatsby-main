@@ -9,6 +9,7 @@ import { Projects } from "../components/projects"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 import SupportMe from "../components/supportMe"
+import { LatestBlogs } from "../components/latestBlogs"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -23,49 +24,14 @@ const BlogIndex = ({ data, location }) => {
           <div className="columns is-tablet is-multiline">
             <div className="column mr-5">
               <Bio />
-              <h2 class="subtitle">Latest Bloggeries</h2>
-              {posts.map(({ node }) => {
-                const title = node.frontmatter.title || node.fields.slug
-                return (
-                  <article
-                    key={node.fields.slug}
-                    style={{
-                      marginBottom: rhythm(1),
-                    }}
-                  >
-                    <header>
-                      <h3
-                        style={{
-                          marginBottom: rhythm(1 / 4),
-                        }}
-                      >
-                        <Link
-                          style={{ boxShadow: `none` }}
-                          to={node.fields.slug}
-                        >
-                          {title}
-                        </Link>
-                      </h3>
-                      <small>{node.frontmatter.date}</small>
-                    </header>
-                    <section>
-                      <p
-                        dangerouslySetInnerHTML={{
-                          __html: node.frontmatter.description || node.excerpt,
-                        }}
-                      />
-                    </section>
-                  </article>
-                )
-              })}
-            <SupportMe/>
+              <LatestBlogs posts={posts} />
             </div>
-
             <div className="column is-4">
               <Projects />
             </div>
           </div>
         </div>
+        <SupportMe />
       </Layout>
     </div>
   )

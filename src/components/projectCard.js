@@ -13,8 +13,8 @@ export const ProjectCard = ({
         <div className="media">
           <div className="media-left">{logoChild}</div>
           <div className="media-content">
-            <p className="title is-4">{title}</p>
-            <p className="subtitle is-6">{description}</p>
+            <p className="title is-5">{title}</p>
+            <p className="is-7">{description}</p>
           </div>
         </div>
       </div>

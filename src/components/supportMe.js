@@ -25,7 +25,7 @@ const SupportMe = () => {
       <h2 class="subtitle">Support Me</h2>
       <div class="level is-mobile" style={{ display: `flex` }}>
         <a
-          class="button level-item"
+          class="button level-item has-background-info-light"
           href={`https://paypal.me/${social.paypal}`}
           target="_blank"
           rel="noreferrer"
@@ -34,7 +34,7 @@ const SupportMe = () => {
           &nbsp;PayPal
         </a>
         <a
-          class="button level-item"
+          class="button level-item has-background-danger-light"
           href={`https://monzo.me/${social.monzo}`}
           target="_blank"
           rel="noreferrer"
@@ -43,7 +43,7 @@ const SupportMe = () => {
           &nbsp;Monzo
         </a>
         <a
-          class="button level-item"
+          class="button level-item has-background-warning-light"
           href={`https://buymeacoff.ee/${social.buymeacoffee}`}
           target="_blank"
           rel="noreferrer"
