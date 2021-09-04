@@ -2,9 +2,7 @@ import React from "react"
 import { rhythm } from "../utils/typography"
 import { Link } from "gatsby"
 
-export const LatestBlogs = ({
-  posts
-}) => {
+export const LatestBlogs = ({ posts }) => {
   return (
     <>
       <h2 class="subtitle">Latest Bloggeries</h2>

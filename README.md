@@ -6,3 +6,8 @@ Created with [Gatsby](https://www.gatsbyjs.com/).
 ```
 npm run start
 ```
+
+## Deploynpm 
+```
+npm run deploy
+```

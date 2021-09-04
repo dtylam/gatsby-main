@@ -9,7 +9,7 @@ import TflTelescopeLogo from "../images/tfltelescopelogo"
 export const Projects = () => {
   return (
     <>
-      <h2 className="subtitle mt-6">My Projects</h2>
+      <h2 className="subtitle mt-6">Past Projects</h2>
       <ProjectCard
         title="The Literal Chinese Dictionary"
         description="A web app that shows what translations, cities, countries and names mean in Chinese, 2019"

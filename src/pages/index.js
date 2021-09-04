@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import "./mystyles.scss"
 
 import Bio from "../components/bio"
@@ -7,11 +7,10 @@ import Header from "../components/header"
 import Layout from "../components/layout"
 import { Projects } from "../components/projects"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
 import SupportMe from "../components/supportMe"
 import { LatestBlogs } from "../components/latestBlogs"
 
-const BlogIndex = ({ data, location }) => {
+const BlogIndex = ({ data }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 

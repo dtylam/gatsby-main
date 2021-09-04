@@ -1,18 +1,17 @@
 module.exports = {
+  pathPrefix: "/gatsby-main",
   siteMetadata: {
     title: `@dtylam`,
     author: {
       name: `@dtylam`,
-      summary: `has lived and worked in Hong Kong, London, and Manchester.`,
+      summary: `Software Engineer in Java, C#, and JavaScript. Has lived and worked in Hong Kong, Hertfordshire, Manchester, and London.`,
     },
     description: `My personal site. All projects and views meown and not employers'.`,
     siteUrl: `https://dtylam.github.io`,
     social: {
       twitter: `dtylam`,
-      instagram: `dtylam`,
       spotify: `1276476528`,
       paypal: `dtylam`,
-      monzo: `tszyiulam`,
       buymeacoffee: `dtylam`,
     },
   },

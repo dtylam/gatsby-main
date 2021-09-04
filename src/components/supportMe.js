@@ -3,7 +3,6 @@ import { useStaticQuery, graphql } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faPaypal } from "@fortawesome/free-brands-svg-icons"
 import { faMugHot } from "@fortawesome/free-solid-svg-icons"
-import MonzoIcon from "../images/monzoicon"
 
 const SupportMe = () => {
   const data = useStaticQuery(graphql`
@@ -12,7 +11,6 @@ const SupportMe = () => {
         siteMetadata {
           social {
             paypal
-            monzo
             buymeacoffee
           }
         }
@@ -32,15 +30,6 @@ const SupportMe = () => {
         >
           <FontAwesomeIcon icon={faPaypal} />
           &nbsp;PayPal
-        </a>
-        <a
-          class="button level-item has-background-danger-light"
-          href={`https://monzo.me/${social.monzo}`}
-          target="_blank"
-          rel="noreferrer"
-        >
-          <MonzoIcon />
-          &nbsp;Monzo
         </a>
         <a
           class="button level-item has-background-warning-light"
