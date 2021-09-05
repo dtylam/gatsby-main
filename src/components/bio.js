@@ -39,30 +39,29 @@ const Bio = () => {
           <div class="media-content">
             <p class="title is-4">{author.name}</p>
             <p class="subtitle is-6">{author.summary}</p>
+            <div class="buttons">
+              <a
+                className="button"
+                href={`https://twitter.com/${social.twitter}`}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span class="icon">
+                  <FontAwesomeIcon icon={faTwitter} />
+                </span>
+              </a>
+              <a
+                className="button"
+                href={`https://open.spotify.com/user/${social.spotify}`}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span class="icon">
+                  <FontAwesomeIcon icon={faSpotify} />
+                </span>
+              </a>
+            </div>
           </div>
-        </div>
-
-        <div class="buttons">
-          <a
-            className="button"
-            href={`https://twitter.com/${social.twitter}`}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <span class="icon">
-              <FontAwesomeIcon icon={faTwitter} />
-            </span>
-          </a>
-          <a
-            className="button"
-            href={`https://open.spotify.com/user/${social.spotify}`}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <span class="icon">
-              <FontAwesomeIcon icon={faSpotify} />
-            </span>
-          </a>
         </div>
       </div>
     </div>

@@ -20,7 +20,7 @@ const SupportMe = () => {
   const { social } = data.site.siteMetadata
   return (
     <>
-      <h2 class="subtitle">Support Me</h2>
+      <h2 class="subtitle mt-5">Support Me</h2>
       <div class="level is-mobile" style={{ display: `flex` }}>
         <a
           class="button level-item has-background-info-light"
