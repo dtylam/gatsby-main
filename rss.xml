@@ -1,144 +1,196 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@dtylam]]></title><description><![CDATA[My personal site. All projects and views meown and not employers'.]]></description><link>https://dtylam.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 04 Sep 2021 23:17:41 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://dtylam.github.io/new-beginnings/</link><guid isPermaLink="false">https://dtylam.github.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
-&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[@dtylam]]></title><description><![CDATA[My personal site. All projects and views meown and not employers'.]]></description><link>https://dtylam.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Sep 2021 14:45:37 GMT</lastBuildDate><item><title><![CDATA[How to turn a small project into a mature app: an Android roadmap]]></title><description><![CDATA[So you’ve hacked together a school project of a native Android app. Your idea is great and you want to scale it to 1,000 users and beyond…]]></description><link>https://dtylam.github.io/android-roadmap/</link><guid isPermaLink="false">https://dtylam.github.io/android-roadmap/</guid><pubDate>Wed, 21 Aug 2019 21:05:03 GMT</pubDate><content:encoded>&lt;p&gt;So you’ve hacked together a school project of a native Android app. Your idea is great and you want to scale it to 1,000 users and beyond. Let’s say you are the project’s BDFL (benevolent dictator for life), what should you do?&lt;/p&gt;
+&lt;p&gt;Below is my suggestions in a roadmap format for your consideration. If you are building a new mid - large sized Android app, this is for you too, but you have the glorious pleasure of doing all of the below from day zero.&lt;/p&gt;
+&lt;h2&gt;Day 1 - 50&lt;/h2&gt;
+&lt;h2&gt;Are you practising Clean Code?&lt;/h2&gt;
+&lt;p&gt;This doesn’t have to be hours spent refactoring old code, just practise the Scout’s Principle - leave a campsite cleaner than you found it: every time you write something new, clean the related areas up a bit.&lt;/p&gt;
+&lt;p&gt;My three clean code mainstays are: &lt;a href=&quot;../clean-code/&quot;&gt;meaningful names, reduce rubbish comments, and extract until you drop&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;RTFM (read the f…flaming manual)&lt;/h2&gt;
+&lt;p&gt;Realise that you’re not doing generic backend or web frontend. You need a good understanding of specialist Android domain knowledge. Read the official documentations. Here are three of my must haves:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;This however showed weasel&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Well uncritical so misled&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;this is very interesting&lt;/li&gt;
+&lt;li&gt;Activity and fragment &lt;a href=&quot;https://developer.android.com/guide/components/activities/activity-lifecycle&quot;&gt;lifecycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Popular view widgets and what adapters are, eg. &lt;a href=&quot;https://developer.android.com/guide/topics/ui/layout/recyclerview&quot;&gt;RecyclerView&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.android.com/guide/background&quot;&gt;Background tasks and services&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
-view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.&lt;/p&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://dtylam.github.io/my-second-post/</link><guid isPermaLink="false">https://dtylam.github.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://dtylam.github.io/hello-world/</link><guid isPermaLink="false">https://dtylam.github.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2&gt;Don’t reinvent the wheel&lt;/h2&gt;
+&lt;p&gt;Are you taking on responsibilities too big for you? Please don’t. You are standing on shoulders of giants, and all the libraries are here for you.&lt;/p&gt;
+&lt;p&gt;For example, are you reinventing security from scratch? If you are storing login credentials with a DIY database table, please switch to a mature platform like &lt;a href=&quot;https://firebase.google.com/products/auth/&quot;&gt;Firebase Auth&lt;/a&gt; or &lt;a href=&quot;https://azure.microsoft.com/en-us/services/active-directory/&quot;&gt;Azure AD&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Critique your work with SOLID&lt;/h2&gt;
+&lt;p&gt;We’ll just use S, O, L out of the &lt;a href=&quot;https://en.wikipedia.org/wiki/SOLID&quot;&gt;SOLID principles&lt;/a&gt; for now. We will talk about I and D later.&lt;/p&gt;
+&lt;p&gt;Look at your classes, especially the POJOs (plain old Java objects) you’ve created, do they conform to these principles?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[S] Single Responsibility:&lt;/strong&gt; this means to make sure your classes only have one reason to change.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[O] Open for extension, closed for modification:&lt;/strong&gt; are your classes future proof? to alter them, you should only have to extend them instead of changing their properties.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[L] Liskov Substitution:&lt;/strong&gt; are you using inheritance correctly? Can users of the base class do everything without knowing which daughter class it is?&lt;/p&gt;
+&lt;p&gt;I won’t be reinventing the wheel here and will just link you to &lt;a href=&quot;https://android.jlelse.eu/android-development-the-solid-principles-3b5779b105d2&quot;&gt;these good code examples&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Day 50 - 100&lt;/h2&gt;
+&lt;p&gt;We continue with the SOLIDisation, time to introduce some more ambitious structural changes:&lt;/p&gt;
+&lt;h2&gt;Bring in the middle layer&lt;/h2&gt;
+&lt;p&gt;You are doing more and more with the app. It is crying out for a “middle layer” that handles its business logic (especially the ones duplicated across activities and fragments). Mercilessly rip these logic out into reader/ writer/ handler/ service classes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[I] Interface Segregation:&lt;/strong&gt; no client should be forced to depend on methods it does not use.&lt;/p&gt;
+&lt;p&gt;For example, after creating a new handler class, have a look at whether any Activity or Fragment is not using all the methods provided by this new handler. Let’s consider an imaginary &lt;code class=&quot;language-text&quot;&gt;UserProfileHandler&lt;/code&gt; that does CRUD on user profiles:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;class UserProfileHandler {
+    function void Create(UserProfile profile) {...}
+    function UserProfile Read(User user, int profileId) {...}
+    function void Update(UserProfile profile) {...}
+    function void Delete(UserProfile profile) {...}
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If you have a &lt;code class=&quot;language-text&quot;&gt;UserSignUpFragment&lt;/code&gt; that only uses the &lt;code class=&quot;language-text&quot;&gt;Create()&lt;/code&gt;, a &lt;code class=&quot;language-text&quot;&gt;UserProfileFragment&lt;/code&gt; that uses &lt;code class=&quot;language-text&quot;&gt;Update()&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;Read()&lt;/code&gt;, and an &lt;code class=&quot;language-text&quot;&gt;AdminActivity&lt;/code&gt; that uses them all, it’s clear that this should be split up into at least three interfaces.&lt;/p&gt;
+&lt;h2&gt;Dependency injection with Dagger&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;[D] Dependency Inversion:&lt;/strong&gt; this principle encourages you to decouple your software components, and to use abstractions/ contracts to link them up (interfaces).&lt;/p&gt;
+&lt;p&gt;You may have noticed that you are new-ing up a lot of these new middle layer classes, using them directly. This is undesirable (… and it makes testing and mocking difficult).&lt;/p&gt;
+&lt;p&gt;Start using interfaces, which are contracts for what the middle layer should be. The activities and fragments trust that the interface methods will return what is promised, and the concrete middle layer implementations trust the activities and fragments will provide the parameters required.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dagger.dev/&quot;&gt;Dagger&lt;/a&gt; is a tool that will help you achieve that, it is a dependency injection/ resolver tool. That means it will help find the concrete implementation of an interface for a client.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/gatsby-main/static/ef2aa947a5ddbdb222c1c538b87110a4/dfe3c/di.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 50.67567567567568%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB2EzEsgP/xAAZEAEAAgMAAAAAAAAAAAAAAAACATEQIjL/2gAIAQEAAQUCU7Kzzg1//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bp//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwHSv//EABkQAAIDAQAAAAAAAAAAAAAAAAABESAiUf/aAAgBAQAGPwJckyxU/8QAGxABAAICAwAAAAAAAAAAAAAAAREhACAxQWH/2gAIAQEAAT8hQEtQfKwIHoaxTJzF6f8A/9oADAMBAAIAAwAAABDzL//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/ECv/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCz/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFBcYGx/9oACAEBAAE/EIRwmhFv2ZxWDau00+nLB2VXvKvK46Ga8ZqQ0HWf/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg&quot;
-        srcset=&quot;/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/a80bd/salty_egg.jpg 148w,
-/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/1c91a/salty_egg.jpg 295w,
-/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg 590w,
-/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/a8a14/salty_egg.jpg 885w,
-/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/fbd2c/salty_egg.jpg 1180w,
-/gatsby-main/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        alt=&quot;Diagram about Dependency Inversion&quot;
+        title=&quot;Diagram about Dependency Inversion&quot;
+        src=&quot;/gatsby-main/static/ef2aa947a5ddbdb222c1c538b87110a4/1c72d/di.jpg&quot;
+        srcset=&quot;/gatsby-main/static/ef2aa947a5ddbdb222c1c538b87110a4/a80bd/di.jpg 148w,
+/gatsby-main/static/ef2aa947a5ddbdb222c1c538b87110a4/1c91a/di.jpg 295w,
+/gatsby-main/static/ef2aa947a5ddbdb222c1c538b87110a4/1c72d/di.jpg 590w,
+/gatsby-main/static/ef2aa947a5ddbdb222c1c538b87110a4/dfe3c/di.jpg 625w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Before:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;class UserSignUpFragment : Fragment {
+    private UserProfileCreator profileCreator;
+    public UserSignUpFragment () {
+        profileCreator = new UserProfileCreator();
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;After:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;class UserSignUpFragment : Fragment {
+    private IUserProfileCreator profileCreator;
+    // Dagger will inject the correct UserProfileCreator into the constructor param
+    public UserSignUpFragment (IUserProfileCreator profileCreator) { 
+        this.profileCreator = profileCreator;
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The beauty of this decoupling, is that your code now works like reusable components. It allows for different concrete implementations of the same interface at the same time, or in the future. For example, your team could decide to switch from Firebase to Azure for user authentication, and the classes using the interface &lt;code class=&quot;language-text&quot;&gt;IUserProfileCreator&lt;/code&gt; don’t have to change at all. You just write a new &lt;code class=&quot;language-text&quot;&gt;AzureUserProfileCreator&lt;/code&gt;, and swap out the old &lt;code class=&quot;language-text&quot;&gt;FirebaseUserProfileCreator&lt;/code&gt; in Dagger configurations.&lt;/p&gt;
+&lt;h2&gt;Bring order to the madness: MVP / MVVM&lt;/h2&gt;
+&lt;p&gt;Your team needs to buy into an organisation pattern: I’m personally more comfortable with the MVP (Model View Presenter) paradigm, which reminds me of MVC. You can find many beautifully written open source MVP apps on Github, such as &lt;a href=&quot;https://github.com/mozilla-lockwise/lockwise-android&quot;&gt;Firefox Lockwise&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;However, there are a growing number of blogs about how MVVM is the new official Google approach. Here is a &lt;a href=&quot;https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/&quot;&gt;really cool code comparison of organisation patterns in Android using a tic-tac-toe example&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Remember these can be gradually introduced. You can build a new activity in MVP/ MVVM style, and that would coexist fine with your old code (be patient with it, Rome isn’t built in a day). &lt;/p&gt;
+&lt;p&gt;Once you are done, you won’t believe how fat your classes used to be, and you will no longer have trouble finding where things are.&lt;/p&gt;
+&lt;h2&gt;Unit testing:&lt;/h2&gt;
+&lt;p&gt;This goes hand in hand with all the refactoring done above. All the heavy lifting logic has been split out of your activities, they are now simple Java classes that you can test with traditional frameworks like JUnit thoroughly.&lt;/p&gt;
+&lt;p&gt;When testing classes that consumes interfaces, you will need to mock the responses of the interfaces. You will want to use a mocking library like &lt;a href=&quot;https://site.mockito.org/&quot;&gt;Mockito&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have followed MVP / MVVM it will be even more obvious what you can test, see &lt;a href=&quot;https://medium.com/@MiBLT/testing-android-mvp-aa0de6e165e4&quot;&gt;some code examples here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Day 100+&lt;/h2&gt;
+&lt;h2&gt;Cover all the holes&lt;/h2&gt;
+&lt;p&gt;90+% coverage is something to aspire towards, some engineering teams will even enforce it. Just don’t fake it (eg. only have one test that assert the return is not null). Always have at least the positive case, the negative cases, the null/ empty case, and edge cases.&lt;/p&gt;
+&lt;p&gt;Now you can be even more fearless when refactoring, because you know your test suite will tell you if something breaks.&lt;/p&gt;
+&lt;h2&gt;Towards TDD:&lt;/h2&gt;
+&lt;p&gt;Now do a complete shift in your mindset, and attempt to write as many tests as possible when you pick up a bug/ feature, before changing any of the app code.&lt;/p&gt;
+&lt;p&gt;You can now do test-driven development (TDD), because you are now experienced in writing tests and there are plenty of examples of what a test should look like.&lt;/p&gt;
+&lt;h2&gt;End-to-end coverage&lt;/h2&gt;
+&lt;p&gt;Click-monkeying is fun and all, but it could get repetitive, especially when the app grows and you need regression testing (test that previously working things are not now broken).&lt;/p&gt;
+&lt;p&gt;Time to have a look at the UI testing framework recommended by Google named &lt;a href=&quot;https://developer.android.com/training/testing/espresso/&quot;&gt;Espresso&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;👏&lt;/h2&gt;
+&lt;p&gt;And there it is: your project has been turned around and ready for the big leagues. Most importantly, it is now more reliable and maintainable than ever, ready for business-as-usual, more team members and the sweet sweet investor moneys.&lt;/p&gt;
+&lt;p&gt;Thanks for reading the whole thing!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Three Extremely Easy Things to Do to Code More Good]]></title><description><![CDATA[Writing good code sounds difficult. What is objectively good? Do you have to study a lot of theories to get there? Where do you go learn…]]></description><link>https://dtylam.github.io/clean-code/</link><guid isPermaLink="false">https://dtylam.github.io/clean-code/</guid><pubDate>Mon, 19 Aug 2019 21:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Writing good code sounds difficult. What is objectively good? Do you have to study a lot of theories to get there? Where do you go learn this stuff? Go no further to get the three minute version of it here:&lt;/p&gt;
+&lt;h2&gt;Clean Code&lt;/h2&gt;
+&lt;p&gt;Out of the software engineering industry came a shining beacon that is &lt;a href=&quot;http://cleancoder.com/products&quot;&gt;Uncle Bob’s school of thought&lt;/a&gt;, which has dominated the industry just like the agile manifesto. Detailed in his 2008 book Clean Code is his widely adopted idea for what is good code:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Code is read more than it is written or changed. So code that is easy to read makes the lives of everyone easier. If you write clean code, it should read like prose even to the worst programmer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here are the three things from his book that anyone, even the freshest programmer, can do to vastly improve their code from day one, absolutely no extra knowledge required:&lt;/p&gt;
+&lt;h2&gt;1. Use meaningful names&lt;/h2&gt;
+&lt;p&gt;That is meaningful names for everything from variables, methods, to classes. What does that mean? It means instead of naming things like:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;function fx (string text, int number){
+    ds.Save(text)
+    logFunc(number)
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;which provided almost no context whatsoever, type what you really mean in the real world:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;function saveStatus (string statusText, int actionCode){
+     dataStore.Save(statusText)
+     logActionType(actionCode)
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Agree as a team what are some of the most common names and concepts you will be using. It should use simple language unless you are working with industry terminologies, or following a well known design pattern.&lt;/p&gt;
+&lt;p&gt;Better yet, agree with your client/ business, and do some &lt;a href=&quot;https://en.wikipedia.org/wiki/Domain-driven_design&quot;&gt;domain driven design&lt;/a&gt;. Using the same lingo as the business means even if your team and wiki dies in fire and blood, new developers will still be able to learn it.&lt;/p&gt;
+&lt;h2&gt;2. Avoid comments like the plague&lt;/h2&gt;
+&lt;p&gt;If you have done the above, your code should already be a lot more understandable to any fresh pairs of eyes. That makes a good majority of your comments redundant.&lt;/p&gt;
+&lt;p&gt;Comments migrate: if you have a lot of them, you are most likely just repeating yourself, and you will end up copying, pasting, and forgetting to change them, eg:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;// Constant string for the name of the url, it cannot be changed
+const string url = &quot;URL&quot;
+
+// Constant string for the name of the url, it cannot be changed
+const string path = &quot;PATH&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Comments rot, because if they are not maintained, the program still runs:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;// Next we calculate a percentage value of x times y (no longer true)
+// x means number of passengers, y means number of vehicles
+int i = i / 2 * v * 100&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Comments should not replace laziness, or unfinished work, eg:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;// TODO: please give this some tender loving care, it&apos;s broken (but is somehow pushed and merged anyway)
+// T1 of tp is max, T2 of tp is min (omg please don&apos;t use tuples/ sets, just make it a class, no one knows what you mean)
+Set tp (int a, int b) = (18, 7)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Some comments which offer critical clarifications cannot be avoided. Always remember that comments are only effective and attention drawing when used sparingly.&lt;/p&gt;
+&lt;p&gt;Uncle Bob said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Every comment represents a failure to make the code self explanatory.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Going full purist &lt;a href=&quot;https://en.wikipedia.org/wiki/Self-documenting_code&quot;&gt;self-documenting code&lt;/a&gt; may not be a good idea, if what you are doing is truly complicated and you are beginning to end up with super long names for things. But it is what you should aim to do 90% of the time.&lt;/p&gt;
+&lt;h2&gt;3. Extract until you drop&lt;/h2&gt;
+&lt;p&gt;Extracting functions/ methods is a very good way to refactor your code. This provides two main benefits: it makes your code easy to skim; and it shows you what belongs and what doesn’t belong in a class.&lt;/p&gt;
+&lt;p&gt;Just like a news article, your code/ files/ classes should read from macroscopic to microscopic. In journalism, this is known as the &lt;a href=&quot;https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)&quot;&gt;inverted pyramid&lt;/a&gt;. Your code should take a reader through the big overview/ important information first, and everything should be extracted out, eg:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;public void GenerateStatusView (int text, string color){
+    ValidateText(text);
+    ValidateColorString(color);
+    return StatusViewModel(ProcessText(text), ConvertColor(color))
+}
+private void ValidateText(...){...}
+private void ValidateColorString(...){...}
+private string ProcessText(...){...}
+private Color ConvertColor(...){...}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Instead of having all the small bits of logic jumbled up together in one very very fat function/ method, the reader can pick and choose which subsection they want to read and which to skip. Maybe there is a bug with the color conversion, they can jump to that because of your extractions and good signposting, instead of trying to read 20 lines of other minute details about how the text is validated.&lt;/p&gt;
+&lt;p&gt;If you extract further, you may discover bits of logic that are duplicated, bits that don’t belong in the class, and could be taken out into another/ a new class. For example, maybe the logic of &lt;code class=&quot;language-text&quot;&gt;ValidateColor()&lt;/code&gt; is used across many different classes, you might want to start a new static class for that.&lt;/p&gt;
+&lt;p&gt;Uncle Bob encourages extracting until you can’t anymore: that every function/ method only does one thing. &lt;a href=&quot;https://sites.google.com/site/unclebobconsultingllc/one-thing-extract-till-you-drop&quot;&gt;What is one thing? Here’s his explanation.&lt;/a&gt; I personally think his version could be a bit extreme sometimes, but I definitely would not have a function/ method that goes longer than half the height of your IDE on a small laptop screen.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsby-main/static/e2d53d8496864b495fbbd6b6d335c620/a2d8a/clean-code.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAwCdASoUAA8APtFUo0uoJKMhsAgBABoJaQAAXK+H5Y8rpqAA/vOKT4LCQIGIPT8VJVoNUoZtboHXnBeE/086xGLHLQFH1ngQAAAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Quote from Michael Feathers, &amp;quot;Clean Code always looks like it was written by someone who cares.&amp;quot;&quot;
+        title=&quot;Quote from Michael Feathers, &amp;quot;Clean Code always looks like it was written by someone who cares.&amp;quot;&quot;
+        src=&quot;/gatsby-main/static/e2d53d8496864b495fbbd6b6d335c620/5ca24/clean-code.webp&quot;
+        srcset=&quot;/gatsby-main/static/e2d53d8496864b495fbbd6b6d335c620/cbe2e/clean-code.webp 148w,
+/gatsby-main/static/e2d53d8496864b495fbbd6b6d335c620/3084c/clean-code.webp 295w,
+/gatsby-main/static/e2d53d8496864b495fbbd6b6d335c620/5ca24/clean-code.webp 590w,
+/gatsby-main/static/e2d53d8496864b495fbbd6b6d335c620/a2d8a/clean-code.webp 638w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations if you are already doing, or will start doing the steps above! You have begun a Clean Coder journey that will allow you to frown upon other beginners’ code and argue about best practices! Read more about Uncle Bob’s school of thought, and have the conversation with your team, it shows that you care.&lt;/p&gt;</content:encoded></item></channel></rss>
